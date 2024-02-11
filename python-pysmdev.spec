@@ -30,6 +30,8 @@ BuildRequires:	libuna-devel >= %{libuna_ver}
 BuildRequires:	libtool >= 2:2
 BuildRequires:	pkgconfig
 BuildRequires:	python-devel >= 1:2.5
+Requires:	libcerror >= %{libcerror_ver}
+Requires:	libsmdev >= %{version}
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
