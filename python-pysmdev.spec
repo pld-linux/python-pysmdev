@@ -10,7 +10,7 @@ Summary:	Python 2 bindings for libsmdev library
 Summary(pl.UTF-8):	Wiązania Pythona 2 do biblioteki libsmdev
 Name:		python-pysmdev
 Version:	20221028
-Release:	1
+Release:	2
 License:	LGPL v3+
 Group:		Libraries/Python
 #Source0Download: https://github.com/libyal/libsmdev/releases
